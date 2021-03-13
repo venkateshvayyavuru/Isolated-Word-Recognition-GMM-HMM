@@ -9,3 +9,4 @@ Tested all wavfiles with One_HMM and Zero_HMM. Reported accuracy the repository.
 
 #I have built the 5-state HMM with two non-emitting states(hmm_gmm_non_emitting_start_nd_end.py)
 
+# This was done as a part of course work
